@@ -1,0 +1,150 @@
+div{
+  padding: 10px;
+
+}
+
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #fbfad3;
+}
+
+.bio{
+  font-size: 2.5em;
+  font-weight: normal;
+  color: #36622b;
+}
+
+h1{
+  font-size: 5.625em;
+  margin: 3.125em auto 0 auto;
+  margin-top: 0px;
+  color: #36622b;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  color: #36622b;
+}
+
+h3{
+
+font-family: 'Montserrat', sans-serif;
+color: #729d39;
+}
+
+p{
+  color: black;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #999999
+;
+  border-width: 10px;
+  width: 10%
+}
+
+.top-container{
+  background-color: #fbfad3;
+  position: relative;
+  padding-top: 200px;
+  height: 100%;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.prog-img{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+
+
+.forest-img{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.grad{
+  height:50px;
+  position: relative;
+  bottom: 40px;
+  background: linear-gradient(#88cc00, #fbfad3);
+}
+
+.server-img{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+
+}
+
+.skills{
+  margin:50px 0 50px 0;
+}
+
+
+.bottom-container{
+  height: 75px;
+  margin: 50px 0 0 0;
+  background: linear-gradient(#fbfad3, #c6e377);
+}
+
+.footer-link{
+  color: #729d39;
+  font-size: 20px;
+  padding: 15px;
+
+}
+
+.btn{
+  position: relative;
+  border-bottom-left-radius: 10px 10px;
+  border-bottom-right-radius: 10px 10px;
+  border-top-left-radius: 10px 10px;
+  border-top-right-radius: 10px 10px;
+  height: 12.5%;
+  width: 25%;
+  text-decoration: none;
+  color: white;
+  margin-top: 20px;
+  top: 40px;
+  border-color: #c6e377;
+  background-color: #11999E;
+  padding: 10px;
+}
+
+.contact-me{
+  margin: 50px 0 50px 0;
+}
+
+.bottom-cloud{
+  position: absolute;
+  right: 700px;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 500px;
+}
+
+.middle-cloud{
+  position: absolute;
+  left: 100px;
+}
+
+.profile{
+  margin: 50px 0 50px 0;
+}
